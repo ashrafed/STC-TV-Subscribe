@@ -8,6 +8,7 @@ Validate the Subscription Packages – Type, Price, and Currency for all Countri
 
 -----------------------------------------------------
 --+> TestNG
+
 --+> Maven
 --+> Selenium Java
 --+> Shaft Engine
